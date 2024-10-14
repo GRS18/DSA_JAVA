@@ -1,3 +1,18 @@
+/*Assignment - A data structure that follows the Last-In-First-Out (LIFO) principle, meaning the last element added is the first one to be removed.  
+Efficiently manage two stacks within a single array, ensuring optimal space utilization and avoiding overflows.
+Provide a user-friendly interface with options to perform various operations on the stacks, such as pushing, popping, peeking, checking emptiness, and displaying elements.
+Example
+  Enter the capacity of the array: 5 
+ Menu:
+1. Push to Stack 1 
+2. Pop from Stack 1 
+3. Peek at Stack 1 
+4. Check if Stack 1 is empty 
+5. Push to Stack 2 
+6. Pop from Stack 2 
+7. Peek at Stack 2 
+8. Check if Stack 2 is empty 
+9. Exit */ 
 package stackdsa;
 
 import java.util.Scanner;
