@@ -1,3 +1,4 @@
+//Decimal Number to Binary Number (Stack Reference From Stack_Class)
 package stackdsa;
 
 import java.util.Scanner;
