@@ -1,3 +1,4 @@
+//Queue using Linked List(Dynamic Queue)
 package linkedlist;
 
 public class Queue_LL {
