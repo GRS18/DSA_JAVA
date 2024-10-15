@@ -1,3 +1,4 @@
+//Stack using linked list(Dynamic Stack)
 package linkedlist;
 
 public class Stack_LL {
