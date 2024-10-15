@@ -1,3 +1,4 @@
+//Stack using linked list(Dynamic Stack)-main fun.
 package linkedlist;
 
 import java.util.Scanner;
