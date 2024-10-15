@@ -1,3 +1,4 @@
+////Queue using Linked List(Dynamic Queue) - main fun.
 package linkedlist;
 
 import java.util.Scanner;
