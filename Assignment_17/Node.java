@@ -1,4 +1,4 @@
-package Assignment_17;
+package Assignment_2;
 
 public class Node {
 
@@ -10,5 +10,4 @@ public class Node {
 		this.data = data;
 		this.next = next;
 	}
-
 }
